@@ -1,11 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Klaudia</h1>
+<h1 align="center">Hi, I'm Klaudia!</h1>
 <h3 align="center">🎓 Data Science student | 📊 Data Analyst | 💻 Pythonista | 📍 Łódź, Poland</h3>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/6P5xq9EnkdMAAAAC/carlos-sainz-champagne.gif" width="280" />
 </p>
-
----
 
 ### 🧠 About Me
 
@@ -28,11 +26,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klaudiaban&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klaudiaban&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klaudiaban&show_icons=true&theme=default&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=klaudiaban&show_icons=true&theme=dark&hide_title=true" />
 </p>
 
 ---
