@@ -26,11 +26,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klaudiaban&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klaudiaban&show_icons=true&theme=dark&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klaudiaban&theme=dark" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=klaudiaban&show_icons=true&theme=dark&hide_title=true" width="49%"/>
 </p>
 
 ---
