@@ -60,11 +60,5 @@
 <p align="center">
   <a href="mailto:banasiewicz.klaudia2005@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/klaudiabanasiewicz"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/klaudiaban"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
 
----
-
-<p align="center">
-  <i>"Creativity meets code – exploring the world of data one line at a time."</i>
-</p>
