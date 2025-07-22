@@ -2,7 +2,8 @@
 <h3 align="center">🎓 Data Science student | 📊 Data Analyst | 💻 Pythonista | 📍 Łódź, Poland</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/6P5xq9EnkdMAAAAC/carlos-sainz-champagne.gif" width="280" />
+  <img src="https://64.media.tumblr.com/83e97ce80ae9eda2fda1ceb1578bc07a/5df346b25189475e-f0/s540x810/6bb13f772c1d4f350502a02e66a7d6545a3ba171.gif" width="49%" />
+  <img src="https://64.media.tumblr.com/ffd6ad7e618a657b55f34ed679fbb42f/5df346b25189475e-ac/s540x810/8bdf6db717661d2b38d2155080e4d15605e5c6f0.gif" width="49%" />
 </p>
 
 ### 🧠 About Me
