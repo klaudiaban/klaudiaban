@@ -16,7 +16,6 @@
 - 🎓 I'm currently studying **Modelling and Data Science** at **Lodz University of Technology (2023–2027)**
 - 🏆 Recipient of the **Rector’s Scholarship** for academic excellence  
 - 👩‍💻 Passionate about **data analysis**, **AI**, and **Python programming**  
-- 📊 Intern @ **Ferrero** – working on production data and OAE standardization  
 - 🌱 Constantly learning beyond coursework – open to internships and part-time opportunities  
 - 🧠 Always building something: from Game Jams to mental health apps  
 
