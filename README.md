@@ -19,7 +19,7 @@ My focus is on transforming raw industrial and business data into actionable ins
 - 🏆 **Rector’s Scholar** for academic excellence.
 - 🏦 **BFF Banking Group Scholar** recognized for technical potential.
 - 💡 Passionate about **Machine Learning**, **Workflow Automation**, and **Mathematical Modeling**.
-- 🌍 Currently based in **Valencia, Spain** (Erasmus+), returning to **Łódź, Poland** for long-term opportunities.
+- 🌍 Currently based in **Valencia, Spain**.
 
 ---
 
