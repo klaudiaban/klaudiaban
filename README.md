@@ -34,18 +34,7 @@ My focus is on transforming raw industrial and business data into actionable ins
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=klaudiaban&show_icons=true&theme=vincit&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=klaudiaban&theme=vincit&hide_border=true" />
-</p>
-
----
-
 ### 📂 Featured Projects
-
-*Building the future one dataset at a time...*
 
 *   **[Project Name]** - *Short description of a data project (e.g., "Predictive model for X using Scikit-Learn").*
 *   **[Production Dashboard]** - *Power BI implementation for real-time KPI tracking.*
@@ -53,12 +42,14 @@ My focus is on transforming raw industrial and business data into actionable ins
 
 ---
 
-### 🎓 Certifications & Recognition
+### 🎓 Certifications
 
-- **IBM** Data Science Professional Certificate
-- **Meta** Python Programming & Version Control
-- **CFI** BI Essentials for Finance Analysts (Power BI)
-- **University of Michigan** Python 3 Specialization
+- **IBM Data Science** Professional Certificate
+- **Python 3 Programming** | University of Michigan
+- **Programming in Python** | Meta
+- **BI Essentials** for Finance Analysts (Power BI Edition) | Corporate Finance Institute
+- **Data science: ML + AI** | codebrainers
+- **Microsoft Power Platform** Fundamentals PL-900
 
 ---
 
