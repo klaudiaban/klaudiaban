@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 I'm Klaudia Banasiewicz</h1>
-  <h3>Junior Data Scientist | Data Science Student</h3>
+  <h3>💻 Junior Data Scientist | 🎓 Data Science Student</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/klaudiabanasiewicz"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
