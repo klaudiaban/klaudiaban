@@ -10,6 +10,22 @@
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B2C8C2&height=200&section=header&text=Klaudia%20Banasiewicz&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+
+  <br />
+
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36454F&width=435&lines=Data+Science+Engineer;Python+Developer;Power+BI+Specialist;Problem+Solver" alt="Typing SVG" />
+  </h1>
+
+  <p>
+    <b>Turning industrial chaos into structured insights.</b>
+  </p>
+</div>
+
+---
+
 ### 🚀 About Me
 
 I am a **Data Science** student at **Lodz University of Technology**, currently broadening my perspective via an **Erasmus+ exchange at Valencia Polytechnic University**. 
