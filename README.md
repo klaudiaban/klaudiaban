@@ -1,26 +1,12 @@
 <div align="center">
-  <h1>👋 I'm Klaudia Banasiewicz</h1>
-  <h3>💻 Junior Data Scientist | 🎓 Data Science Student</h3>
+  <img src="./banner.svg" width="100%"/>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/klaudiabanasiewicz"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:banasiewicz.klaudia2005@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1200&color=7EC8BC&center=true&vCenter=true&width=480&lines=Data+Science+Engineer;Python+Developer;Power+BI+Specialist;Erasmus+%40+UPV+Valencia;Turning+chaos+into+insights+%E2%86%92" alt="Typing SVG"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B2C8C2&height=200&section=header&text=Klaudia%20Banasiewicz&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
-
-  <br />
-
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36454F&width=435&lines=Data+Science+Engineer;Python+Developer;Power+BI+Specialist;Problem+Solver" alt="Typing SVG" />
-  </h1>
-
-  <p>
-    <b>Turning industrial chaos into structured insights.</b>
+<p align="center">
+    <a href="https://linkedin.com/in/klaudiabanasiewicz"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:banasiewicz.klaudia2005@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
