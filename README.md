@@ -30,14 +30,6 @@ My focus is on transforming raw industrial and business data into actionable ins
 
 ---
 
-### 📂 Featured Projects
-
-*   **[Project Name]** - *Short description of a data project (e.g., "Predictive model for X using Scikit-Learn").*
-*   **[Production Dashboard]** - *Power BI implementation for real-time KPI tracking.*
-*   **[Mental Health App]** - *Hackathon prototype focused on user-centric data design.*
-
----
-
 ### 🎓 Certifications
 
 - **IBM Data Science** Professional Certificate
