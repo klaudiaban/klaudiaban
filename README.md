@@ -8,13 +8,13 @@
 
 ### 🚀 About Me
 
-I am a **Data Science** student at **Lodz University of Technology**, currently broadening my perspective via an **Erasmus+ exchange at Valencia Polytechnic University**. 
+I am a **Data Science** student at **Lodz University of Technology**, after an **Erasmus+ exchange at Valencia Polytechnic University**. 
 
 My focus is on transforming raw industrial and business data into actionable insights. During my time at **Ferrero**, I specialized in automating production analytics and standardizing global performance indicators (OEE/OAE).
 
 - 🏆 **Rector’s Scholar** for academic excellence.
 - 🏦 **BFF Banking Group Scholar** recognized for technical potential.
-- 💡 Passionate about **Machine Learning**, **Workflow Automation**, and **Mathematical Modeling**.
+- 💡 Passionate about **Machine Learning**, **Workflow Automation**, and **Data Science**.
 - 🌍 Currently based in **Valencia, Spain**.
 
 ---
