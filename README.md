@@ -17,7 +17,7 @@ I have worked on projects involving industrial analytics, NLP, multimodal AI, wo
 - 🏆 **Rector's Scholar** for academic excellence.
 - 🏦 **BFF Banking Group Scholar (Youth in Lodz Scholarship)** recognized for technical potential.
 - 💡 Interested in **Machine Learning, AI, Data Engineering, and Backend Development**.
-- 🌍 Currently based in **Valencia, Spain**.
+- 🌍 Currently based in **Lodz, Poland**.
 
 ---
 
